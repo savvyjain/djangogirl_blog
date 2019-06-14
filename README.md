@@ -11,8 +11,6 @@ You should now be able to see the following directory structure:
     │   ├── admin.py
     │   ├── apps.py
     │   ├── __init__.py
-    │   ├── migrations
-    │   │   ├── 0001_initial.py
     │   │   └── __init__.py
     │   ├── models.py
     │   ├── tests.py
