@@ -1,8 +1,6 @@
-*.pyc
-.idea/
-media
-.db.sqlite3
-logs/
-*.log
-dblog/blog/migrations/
-dblog/mysite/migrations/
+*.Pyc
+*che__
+myvenv
+db.sqlite3
+/static
+.DS_Store.pyc
